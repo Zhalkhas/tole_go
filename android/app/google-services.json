@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388663321836",
+    "firebase_url": "https://tolego-8bee8.firebaseio.com",
+    "project_id": "tolego-8bee8",
+    "storage_bucket": "tolego-8bee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388663321836:android:319fcc9a512c04f7cbb1c9",
+        "android_client_info": {
+          "package_name": "com.tolegocorp.tolego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388663321836-rmo3st0p110729eu5u4lp7l9ihne64f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdsiPMz-PGu_fgQTWZAa7XSOJSrl9OhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388663321836-rmo3st0p110729eu5u4lp7l9ihne64f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

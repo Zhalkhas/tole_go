@@ -1,0 +1,3 @@
+[submodule "include/flutter_qr_mobile_vision"]
+	path = include/flutter_qr_mobile_vision
+	url = https://github.com/rmtmckenzie/flutter_qr_mobile_vision/
